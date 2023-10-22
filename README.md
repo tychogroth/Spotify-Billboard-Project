@@ -14,7 +14,7 @@ A Spotify account and the Spotify app installed on your machine
 ### Installation
 
 Clone the repository:
-git clone https://github.com/your-username/spotify-billboard-playlist-creator.git
+git clone https://github.com/your-username/spotify-billboard-project.git
 
 Navigate to the project directory:
 cd spotify-billboard-playlist-creator
